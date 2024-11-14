@@ -1,6 +1,6 @@
 <h1 align="center">Diabetes Prediction SQL Analysis</h1>
----
 
+---
 
 <p align="center">
     <img src="https://github.com/meabhaykr/Diabetes_Prediction_SQL_Analysis/blob/main/Poster.png" alt="Poster.png">
