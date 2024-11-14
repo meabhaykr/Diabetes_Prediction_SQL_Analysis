@@ -2,7 +2,7 @@
 
 ---
 <p align="center">
-    <img src="https://github.com/meabhaykr/raksha_pipes_assignment/blob/main/Raksha%20Pipes%20Banner.png" alt="Raksha Pipes Banner.png">
+    <img src="https://github.com/meabhaykr/Diabetes_Prediction_SQL_Analysis/blob/main/Poster.png" alt="Poster.png">
 </p>
 
 ## 🚀 Overview
