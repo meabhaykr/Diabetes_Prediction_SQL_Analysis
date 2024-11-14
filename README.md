@@ -1,8 +1,5 @@
 # Diabetes Prediction SQL Analysis
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-Completed-brightgreen.svg)
-
 ## 🚀 Overview
 The **Diabetes Prediction Project** is an initiative aimed at analyzing patient health data to predict diabetes prevalence and identify key health indicators for diabetic patients. This project leverages SQL for database management and data retrieval, allowing efficient exploration and manipulation of patient health records for various analytical purposes.
 
@@ -65,12 +62,7 @@ To improve SQL query performance, the following methods were implemented:
 - **Constraints and Defaults**: Use default values and constraints for data integrity.
 - **Index Optimization**: Maintain a balance with indexing for frequently queried fields.
 
-## 🤝 Contributing
-1. Fork this repository.
-2. Create your feature branch: `git checkout -b feature/YourFeature`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/YourFeature`
-5. Open a Pull Request.
-
 ## 📄 License
 This project is licensed under the MIT License.
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Status](https://img.shields.io/badge/status-Completed-brightgreen.svg)
