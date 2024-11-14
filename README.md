@@ -1,4 +1,9 @@
-# Diabetes Prediction SQL Analysis
+<h1 align="center">Diabetes Prediction SQL Analysis</h1>
+
+---
+<p align="center">
+    <img src="https://github.com/meabhaykr/raksha_pipes_assignment/blob/main/Raksha%20Pipes%20Banner.png" alt="Raksha Pipes Banner.png">
+</p>
 
 ## 🚀 Overview
 The **Diabetes Prediction Project** is an initiative aimed at analyzing patient health data to predict diabetes prevalence and identify key health indicators for diabetic patients. This project leverages SQL for database management and data retrieval, allowing efficient exploration and manipulation of patient health records for various analytical purposes.
