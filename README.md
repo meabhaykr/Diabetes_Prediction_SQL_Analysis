@@ -64,5 +64,8 @@ To improve SQL query performance, the following methods were implemented:
 
 ## 📄 License
 This project is licensed under the MIT License.
+
+
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-Completed-brightgreen.svg)
