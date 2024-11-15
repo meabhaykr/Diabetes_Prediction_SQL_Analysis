@@ -26,7 +26,7 @@ The **Diabetes Prediction Project** is an initiative aimed at analyzing patient 
 - SQL query optimization techniques for enhanced performance
 
 ## 🛠️ Database Setup
-1. Git Clone the repository:
+1. Clone the repository:
    ```bash
    https://github.com/meabhaykr/Diabetes_Prediction_SQL_Analysis
    ```
