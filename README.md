@@ -50,7 +50,7 @@ The following SQL-based tasks were executed for comprehensive analysis:
 13. Insert new patient data with sample values.
 14. Delete all patients with heart disease.
 15. Find patients with hypertension but not diabetes using the EXCEPT operator.
-16. Define a unique constraint on the `patient_id` column to enforce uniqueness.
+16. Define a unique constraint on the "patient_id" column to enforce uniqueness.
 17. Create a view displaying Patient IDs, ages, and BMI values.
 
 ## ⚙️ Performance Optimization
